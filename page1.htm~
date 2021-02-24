@@ -1,0 +1,42 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+<html>
+<head>
+<title>William Whitaker - Paintings and Drawings</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+<link rel="stylesheet" type="text/css" href="stylesheet.css">
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_openBrWindow(theURL,winName,features) { //v2.0
+  window.open(theURL,winName,features);
+}
+//-->
+</script>
+
+</head>
+<body>
+<div id="map">
+<img src="name_map.png" width="468" height="60" border="0" usemap="#map" alt="W I L L I A M W H I T A K E R" title="">
+
+<map name="map">
+<!-- #$-:Image map file created by GIMP Image Map plug-in -->
+<!-- #$-:GIMP Image Map plug-in by Maurits Rijk -->
+<!-- #$-:Please do not edit lines starting with "#$" -->
+<!-- #$VERSION:2.3 -->
+<!-- #$AUTHOR:William Whitaker -->
+<area shape="rect" coords="15,31,88,52" href="index.htm" />
+<area shape="rect" coords="144,32,299,54" href="statement.htm" />
+<area shape="rect" coords="332,33,453,55" href="mailto:billydwhitaker@gmail.com?subject=begin communication" />
+</map>
+</div>
+<div id="img">
+<a href="image1.htm" onClick="MM_openBrWindow('image1.htm','','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=750,height=475'); return false"><img src="untitled1_thumb.jpg" border=0 alt="untitled" title=""></a>
+<a href="image2.htm" onClick="MM_openBrWindow('image2.htm','','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=750,height=475'); return false"><img src="untitled2_thumb.jpg" border=0 alt="untitled" title=""></a>
+<a href="image3.htm" onClick="MM_openBrWindow('image3.htm','','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=750,height=475'); return false"><img src="bray_thumb.jpg" border=0 alt="brazilla ray" title=""></a>
+<a href="image4.htm" onClick="MM_openBrWindow('image4.htm','','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=475,height=475'); return false"><img src="tourist_thumb.jpg" border=0 alt="tourist" title=""></a>
+<a href="image5.htm" onClick="MM_openBrWindow('image5.htm','','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=750,height=300'); return false"><img src="scotch_thumb.jpg" border=0 alt="scotchbroom" title=""></a>
+<a href="page2.htm"><img src="moon_thumb_inv.jpg" border=0 alt="next page" title="next page"></a>
+</div>
+</body>
+
+

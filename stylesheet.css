@@ -1,0 +1,62 @@
+body {background-color: #cc6600}
+body.image {background-color: #ffffff}
+
+#map {position: absolute; top:75%; right:5%}
+
+#port {position: absolute; top:45%; right:8%}
+
+#img {margin: 26em 2em; height: auto; width: auto; float: left}
+
+#column_left {
+	color: #3b1e00;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 25em;
+	font-family: arial, helvitica;
+	font-size: .8em;
+	margin: 3em 5em;
+	text-align: justify;
+}
+
+#column_center {
+	color: #3b1e00;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 25em;
+	font-family: arial, helvitica;
+	font-size: .8em;
+	margin: 3em 5em;
+	text-align: justify;
+}
+
+#column_right {
+	color: #3b1e00;
+	position: absolute;
+	top: 0;
+	right: 0;
+	width: 25em;
+	font-family: arial, helvitica;
+	font-size: .8em;
+	text-align: justify;
+	margin: 3em 5em;
+	text-align: justify
+}
+
+#pic {margin: 15px;}
+
+#caption {
+	color: #3b1e00;
+	position: absolute;
+	bottom:25%;
+	right: 0;
+	width: 20em;
+	font-family: arial, helvitica;
+	text-align: right;
+	font-size: 0.85em;
+	margin: 1em 1em;
+}
+
+#lic {position: absolute; bottom:5%; right:0; margin: 1em 1em;}
+
